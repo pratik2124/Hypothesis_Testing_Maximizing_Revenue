@@ -1,1 +1,3 @@
-# Hypothesis_Testing_Maximizing_Revenue
+# Maximizing Revenue Using Hypothesis Testing
+
+## Objective
