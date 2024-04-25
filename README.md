@@ -12,7 +12,13 @@ The Primary Objective of  this Project is to A/B test to examine the relationshi
 + This indicates a strong performance among customers for using card payments over cash, potentially due to convenience, security, or incentives offered for card transactions.
 + Among card payments, rides with a single passenger (passenger_count = 1) comprise the largest proportion, constituting 40.08% of all card trannsactions.
 + Similarly, card payments are predominantly associated with single-passenger rides, making up 20.04% of all cash transactions.
-+  There is a noticeable decrease in the percentage of transactions as the passenger count increases, suggesting the larger groups are less likely to use taxis or may opt for alternative payment methods. 
++  There is a noticeable decrease in the percentage of transactions as the passenger count increases, suggesting the larger groups are less likely to use taxis or may opt for alternative payment methods. .
+
+## Recommendations 
+
++ Encourage customers to pay with credit cards to capitalize on the potential for generating more revenue for taxi cab drivers.
++ Implement strategies to incentivize customers to choose this payment method.
++ Provide seamless and secure credit card payment options to enhance customer convenience and encourage adoption of this preferred payment option. 
 
 
 
