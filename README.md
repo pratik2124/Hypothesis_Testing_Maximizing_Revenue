@@ -6,6 +6,9 @@ The Primary Objective of  this Project is to A/B test to examine the relationshi
 
 ## Insights Gained Through Analysis
 
++ Customers paying with cards tend to have a slightly higher average trip distance and fare amount compared to those paying with cash.
++ Indicates that customers prefers to pay more with cards when they have high fare amount and long trip distance.
++ 
 
 
 
