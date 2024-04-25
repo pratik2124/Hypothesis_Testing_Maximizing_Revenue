@@ -8,7 +8,8 @@ The Primary Objective of  this Project is to A/B test to examine the relationshi
 
 + Customers paying with cards tend to have a slightly higher average trip distance and fare amount compared to those paying with cash.
 + Indicates that customers prefers to pay more with cards when they have high fare amount and long trip distance.
-+ 
++ The Proportion of customers paying with cards is significantly higher than those paying with cards, with card payments accounting for 67.5% of all transactions compared to cash payments at 32.5%.
++   
 
 
 
